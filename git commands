@@ -1,0 +1,10 @@
+git clone (repositorylink)
+git branch
+git status
+git Add . (filename)
+git commit -m "commitemessage"
+git push
+git pull
+git checkout -b branchname
+
+
