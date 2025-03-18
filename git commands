@@ -5,6 +5,9 @@ git Add . (filename)
 git commit -m "commitemessage"
 git push
 git pull
-git checkout -b branchname
+git checkout -b branchname [crating a new branch & go to that branch]
+git checkout branchname [go to another branch]
+git branch -a [list out the branches]
+
 
 
